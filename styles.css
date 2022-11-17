@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: yellow;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    color: rgb(25, 11, 227);
+}
+
